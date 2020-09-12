@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="IMC Project" src="./.github/logo.svg" width="200px"/>
+  <img alt="Dino Game" src="./.github/logo.svg" width="200px"/>
 <p>
 
 <p align="center"> 
@@ -48,7 +48,7 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 <p align="center"><b> :computer: WEB DESKTOP </b>
 
 <p align="center">
-  <kbd><img alt="IMC Project" src="./.github/desktop_demo.png"/></kbd>
+  <kbd><img alt="Dino Game" src="./.github/desktop_demo.png"/></kbd>
 <p>
 
 ---
