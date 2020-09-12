@@ -29,13 +29,13 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 ---
 ## :video_game: Controles
 
-<p align="center"><b> :computer: WEB DESKTOP </b>
+<div align="center">
 
-`Barra de Espaço` - Pular
+|Controle|Desktop|Mobile|
+|:---:|:---:|:---:|
+|Pular|<kbd>Barra de Espaço</kbd>|:x:|
 
-<p align="center"><b> :computer: WEB MOBILE </b></p>
-  
-<p align="center"> :warning: Sem suporte. </p>
+</div>
 
 ---
 ## :memo: **Roteiro**
