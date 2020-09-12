@@ -13,6 +13,7 @@
 
 <p align="center">
  <a href="#computer-sobre">Sobre</a> •
+   <a href="#video_game-controles">Controles</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
@@ -24,6 +25,11 @@
 ## :computer: Sobre
 
 Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexão com a internet. O objetivo foi aprender a capturar eventos e manipular o DOM com o JavaScript Vanilla.
+
+---
+## :video_game: Controles
+
+`Barra de Espaço` - Pular
 
 ---
 ## :memo: **Roteiro**
