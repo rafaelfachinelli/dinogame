@@ -70,8 +70,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 <div align="center">
 
-|WEB Responsivo								|
-|:---:									|
+|:computer: Desktop|
+|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|
 |[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
