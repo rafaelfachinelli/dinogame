@@ -31,7 +31,7 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 
 <div align="center">
 
-|:keyboard: Controle|:computer: Desktop||:iphone: Mobile|
+|:keyboard: Controle|:computer: Desktop|:iphone: Mobile|
 |:---:|:---:|:---:|
 |Pular|<kbd>Barra de Espaço</kbd>|:x:|
 
