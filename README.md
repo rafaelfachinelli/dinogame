@@ -97,5 +97,5 @@ Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
 ---
 ## :page_facing_up: **Licença**
 
-Copyright © 2020 [eNaturalist](https://github.com/rafaelfachinelli).<br />
+Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
