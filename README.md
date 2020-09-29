@@ -41,6 +41,8 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 ## :memo: **Roteiro**
 
 <div align="center">
+<details>
+<summary>Clique para Visualizar</summary>
 
 |      Estado      |     Plataforma   |     Tarefa    |
 |      :---:       |       :---:      |      :---     |
@@ -52,6 +54,7 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 |:heavy_check_mark:|:computer:        |Disparo de game over|
 |:heavy_check_mark:|:computer:        |Inserção de imagens e background|
 
+</details>
 </div>
 
 ---
