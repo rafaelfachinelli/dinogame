@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dino Game" src="./.github/logo.svg" width="200px"/>
+  <img alt="Dino Game" src=".github/logo.svg" width="200px"/>
 <p>
 
 <p align="center"> 
