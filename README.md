@@ -12,14 +12,23 @@
 <p>
 
 <p align="center">
- <a href="#computer-sobre">Sobre</a> •
-   <a href="#video_game-controles">Controles</a> •
- <a href="#memo-roteiro">Roteiro</a> •
  <a href="#movie_camera-demonstração">Demonstração</a> •
+ <a href="#computer-sobre">Sobre</a> •
+ <a href="#video_game-controles">Controles</a> •
+ <a href="#memo-roteiro">Roteiro</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
+
+---
+## :movie_camera: **Demonstração**
+
+<p align="center"><b> :computer: WEB DESKTOP </b>
+
+<p align="center">
+  <kbd><img alt="Dino Game" src="./.github/desktop_demo.gif"/></kbd>
+<p>
 
 ---
 ## :computer: Sobre
@@ -56,15 +65,6 @@ Jogo inspirado no "Dino Game" do navegador Google Chrome exibido ao cair conexã
 
 </details>
 </div>
-
----
-## :movie_camera: **Demonstração**
-
-<p align="center"><b> :computer: WEB DESKTOP </b>
-
-<p align="center">
-  <kbd><img alt="Dino Game" src="./.github/desktop_demo.gif"/></kbd>
-<p>
 
 ---
 ## :hammer: **Tecnologias**
