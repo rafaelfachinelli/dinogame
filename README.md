@@ -27,7 +27,7 @@
 <p align="center"><b> :computer: WEB DESKTOP </b>
 
 <p align="center">
-  <kbd><a href="https://rafaelfachinelli.github.io/dinogame/"><img alt="Dino Game" src=".github/desktop_demo.gif"/></a></kbd>
+  <kbd><a href="https://rafaelfachinelli.github.io/dinogame/" target="_blank"><img alt="Dino Game" src=".github/desktop_demo.gif"/></a></kbd>
 <p>
 
 ---
