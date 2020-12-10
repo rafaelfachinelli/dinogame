@@ -30,6 +30,14 @@
   <kbd><a href="https://rafaelfachinelli.github.io/dinogame/" target="_blank"><img alt="Dino Game" src=".github/desktop_demo.gif"/></a></kbd>
 <p>
 
+<div align="center">
+
+|:globe_with_meridians: Online|:link: URL|
+|:---:|:---:|
+|:white_check_mark:|<a href="https://rafaelfachinelli.github.io/dinogame/" target="_blank">rafaelfachinelli.github.io/dinogame/</a>|
+
+</div>
+
 ---
 ## :computer: Sobre
 
